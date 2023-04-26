@@ -1,51 +1,51 @@
-number,name,position,age,nation,team,value
-1,Kylian Mbappé,Centre-Forward,24,France,Paris Saint-Germain,€200.00m
-2,Achraf Hakimi,Right-Back,24,Morocco,Paris Saint-Germain,€70.00m
-3,Marquinhos,Centre-Back,28,Brazil,Paris Saint-Germain,€75.00m
-4,Neymar,Left Winger,31,Brazil,Paris Saint-Germain,€180.00m
-5,Nuno Mendes,Left-Back,20,Portugal,Paris Saint-Germain,€65.00m
-6,Jonathan David,Centre-Forward,23,Canada,LOSC Lille,€60.00m
-7,Marco Verratti,Central Midfield,30,Italy,Paris Saint-Germain,€75.00m
-8,Gianluigi Donnarumma,Goalkeeper,24,Italy,Paris Saint-Germain,€65.00m
-9,Lionel Messi,Right Winger,35,Argentina,Paris Saint-Germain,€180.00m
-10,Vitinha,Central Midfield,23,Portugal,Paris Saint-Germain,€45.00m
-11,Fabián Ruiz,Central Midfield,27,Spain,Paris Saint-Germain,€60.00m
-12,Presnel Kimpembe,Centre-Back,27,France,Paris Saint-Germain,€40.00m
-13,Amine Gouiri,Centre-Forward,23,France,Stade Rennais FC,€50.00m
-14,Martin Terrier,Left Winger,26,France,Stade Rennais FC,€35.00m
-15,Khéphren Thuram,Defensive Midfield,22,France,OGC Nice,€32.00m
-16,Seko Fofana,Central Midfield,27,Cote d'Ivoire,RC Lens,€30.00m
-17,Jean-Clair Todibo,Centre-Back,23,France,OGC Nice,€30.00m
-18,Carlos Soler,Central Midfield,26,Spain,Paris Saint-Germain,€50.00m
-19,Mohamed Camara,Defensive Midfield,23,Mali,AS Monaco,€28.00m
-20,Rayan Cherki,Attacking Midfield,19,France,Olympique Lyon,€27.00m
-21,Axel Disasi,Centre-Back,25,France,AS Monaco,€25.00m
-22,Elye Wahi,Centre-Forward,20,France,Montpellier HSC,€25.00m
-23,Youssouf Fofana,Central Midfield,24,France,AS Monaco,€25.00m
-24,Folarin Balogun,Centre-Forward,21,England,Stade Reims,€25.00m
-25,Malo Gusto,Right-Back,19,France,Olympique Lyon,€25.00m
-26,Aleksandr Golovin,Attacking Midfield,26,Russia,AS Monaco,€30.00m
-27,Mattéo Guendouzi,Central Midfield,24,France,Olympique Marseille,€50.00m
-28,Maxence Caqueret,Central Midfield,23,France,Olympique Lyon,€25.00m
-29,Arnaud Kalimuendo,Centre-Forward,21,France,Stade Rennais FC,€25.00m
-30,Hugo Ekitiké,Centre-Forward,20,France,Paris Saint-Germain,€28.00m
-31,Vitinha,Centre-Forward,23,Portugal,Olympique Marseille,€22.00m
-32,Breel Embolo,Centre-Forward,26,Switzerland,AS Monaco,€22.00m
-33,Nicolas Pépé,Right Winger,27,Cote d'Ivoire,OGC Nice,€75.00m
-34,Renato Sanches,Central Midfield,25,Portugal,Paris Saint-Germain,€30.00m
-35,Loïs Openda,Centre-Forward,23,Belgium,RC Lens,€20.00m
-36,Wissam Ben Yedder,Centre-Forward,32,France,AS Monaco,€50.00m
-37,Chancel Mbemba,Centre-Back,28,DR Congo,Olympique Marseille,€20.00m
-38,Caio Henrique,Left-Back,25,Brazil,AS Monaco,€20.00m
-39,Arthur Theate,Centre-Back,22,Belgium,Stade Rennais FC,€20.00m
-40,Castello Lukeba,Centre-Back,20,France,Olympique Lyon,€20.00m
-41,Lovro Majer,Attacking Midfield,25,Croatia,Stade Rennais FC,€22.00m
-42,Terem Moffi,Centre-Forward,23,Nigeria,OGC Nice,€20.00m
-43,Nordi Mukiele,Right-Back,25,France,Paris Saint-Germain,€25.00m
-44,Jonathan Bamba,Left Winger,27,Cote d'Ivoire,LOSC Lille,€25.00m
-45,Alban Lafont,Goalkeeper,24,France,FC Nantes,€20.00m
-46,Vanderson,Right-Back,21,Brazil,AS Monaco,€18.00m
-47,Valentin Rongier,Central Midfield,28,France,Olympique Marseille,€20.00m
-48,Jérémy Doku,Right Winger,20,Belgium,Stade Rennais FC,€26.00m
-49,Eliesse Ben Seghir,Attacking Midfield,18,France,AS Monaco,€18.00m
-50,Sofiane Diop,Left Winger,22,France,OGC Nice,€20.00m
+number,name,position,age,nation,team,value,league
+1,Kylian Mbappé,Centre-Forward,24,France,Paris Saint-Germain,200.00m,Ligue1
+2,Achraf Hakimi,Right-Back,24,Morocco,Paris Saint-Germain,70.00m,Ligue1
+3,Marquinhos,Centre-Back,28,Brazil,Paris Saint-Germain,75.00m,Ligue1
+4,Neymar,Left Winger,31,Brazil,Paris Saint-Germain,180.00m,Ligue1
+5,Nuno Mendes,Left-Back,20,Portugal,Paris Saint-Germain,65.00m,Ligue1
+6,Jonathan David,Centre-Forward,23,Canada,LOSC Lille,60.00m,Ligue1
+7,Marco Verratti,Central Midfield,30,Italy,Paris Saint-Germain,75.00m,Ligue1
+8,Gianluigi Donnarumma,Goalkeeper,24,Italy,Paris Saint-Germain,65.00m,Ligue1
+9,Lionel Messi,Right Winger,35,Argentina,Paris Saint-Germain,180.00m,Ligue1
+10,Vitinha,Central Midfield,23,Portugal,Paris Saint-Germain,45.00m,Ligue1
+11,Fabián Ruiz,Central Midfield,27,Spain,Paris Saint-Germain,60.00m,Ligue1
+12,Presnel Kimpembe,Centre-Back,27,France,Paris Saint-Germain,40.00m,Ligue1
+13,Amine Gouiri,Centre-Forward,23,France,Stade Rennais FC,50.00m,Ligue1
+14,Martin Terrier,Left Winger,26,France,Stade Rennais FC,35.00m,Ligue1
+15,Khéphren Thuram,Defensive Midfield,22,France,OGC Nice,32.00m,Ligue1
+16,Seko Fofana,Central Midfield,27,Cote d'Ivoire,RC Lens,30.00m,Ligue1
+17,Jean-Clair Todibo,Centre-Back,23,France,OGC Nice,30.00m,Ligue1
+18,Carlos Soler,Central Midfield,26,Spain,Paris Saint-Germain,50.00m,Ligue1
+19,Mohamed Camara,Defensive Midfield,23,Mali,AS Monaco,28.00m,Ligue1
+20,Rayan Cherki,Attacking Midfield,19,France,Olympique Lyon,27.00m,Ligue1
+21,Axel Disasi,Centre-Back,25,France,AS Monaco,25.00m,Ligue1
+22,Elye Wahi,Centre-Forward,20,France,Montpellier HSC,25.00m,Ligue1
+23,Youssouf Fofana,Central Midfield,24,France,AS Monaco,25.00m,Ligue1
+24,Folarin Balogun,Centre-Forward,21,England,Stade Reims,25.00m,Ligue1
+25,Malo Gusto,Right-Back,19,France,Olympique Lyon,25.00m,Ligue1
+26,Aleksandr Golovin,Attacking Midfield,26,Russia,AS Monaco,30.00m,Ligue1
+27,Mattéo Guendouzi,Central Midfield,24,France,Olympique Marseille,50.00m,Ligue1
+28,Maxence Caqueret,Central Midfield,23,France,Olympique Lyon,25.00m,Ligue1
+29,Arnaud Kalimuendo,Centre-Forward,21,France,Stade Rennais FC,25.00m,Ligue1
+30,Hugo Ekitiké,Centre-Forward,20,France,Paris Saint-Germain,28.00m,Ligue1
+31,Vitinha,Centre-Forward,23,Portugal,Olympique Marseille,22.00m,Ligue1
+32,Breel Embolo,Centre-Forward,26,Switzerland,AS Monaco,22.00m,Ligue1
+33,Nicolas Pépé,Right Winger,27,Cote d'Ivoire,OGC Nice,75.00m,Ligue1
+34,Renato Sanches,Central Midfield,25,Portugal,Paris Saint-Germain,30.00m,Ligue1
+35,Loïs Openda,Centre-Forward,23,Belgium,RC Lens,20.00m,Ligue1
+36,Wissam Ben Yedder,Centre-Forward,32,France,AS Monaco,50.00m,Ligue1
+37,Chancel Mbemba,Centre-Back,28,DR Congo,Olympique Marseille,20.00m,Ligue1
+38,Caio Henrique,Left-Back,25,Brazil,AS Monaco,20.00m,Ligue1
+39,Arthur Theate,Centre-Back,22,Belgium,Stade Rennais FC,20.00m,Ligue1
+40,Castello Lukeba,Centre-Back,20,France,Olympique Lyon,20.00m,Ligue1
+41,Lovro Majer,Attacking Midfield,25,Croatia,Stade Rennais FC,22.00m,Ligue1
+42,Terem Moffi,Centre-Forward,23,Nigeria,OGC Nice,20.00m,Ligue1
+43,Nordi Mukiele,Right-Back,25,France,Paris Saint-Germain,25.00m,Ligue1
+44,Jonathan Bamba,Left Winger,27,Cote d'Ivoire,LOSC Lille,25.00m,Ligue1
+45,Alban Lafont,Goalkeeper,24,France,FC Nantes,20.00m,Ligue1
+46,Vanderson,Right-Back,21,Brazil,AS Monaco,18.00m,Ligue1
+47,Valentin Rongier,Central Midfield,28,France,Olympique Marseille,20.00m,Ligue1
+48,Jérémy Doku,Right Winger,20,Belgium,Stade Rennais FC,26.00m,Ligue1
+49,Eliesse Ben Seghir,Attacking Midfield,18,France,AS Monaco,18.00m,Ligue1
+50,Sofiane Diop,Left Winger,22,France,OGC Nice,20.00m,Ligue1
