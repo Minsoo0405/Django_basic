@@ -1,0 +1,51 @@
+number,name,position,age,nation,team,value
+1,Erling Haaland,Centre-Forward,22,Norway,Manchester City,€170.00m
+2,Phil Foden,Left Winger,22,England,Manchester City,€110.00m
+3,Bukayo Saka,Right Winger,21,England,Arsenal FC,€110.00m
+4,Harry Kane,Centre-Forward,29,England,Tottenham Hotspur,€150.00m
+5,Enzo Fernández,Defensive Midfield,22,Argentina,Chelsea FC,€85.00m
+6,Declan Rice,Defensive Midfield,24,England,West Ham United,€80.00m
+7,Rodri,Defensive Midfield,26,Spain,Manchester City,€80.00m
+8,Martin Ødegaard,Attacking Midfield,24,Norway,Arsenal FC,€80.00m
+9,Kevin De Bruyne,Attacking Midfield,31,Belgium,Manchester City,€150.00m
+10,Bernardo Silva,Attacking Midfield,28,Portugal,Manchester City,€100.00m
+11,Marcus Rashford,Left Winger,25,England,Manchester United,€85.00m
+12,Gabriel Jesus,Centre-Forward,26,Brazil,Arsenal FC,€80.00m
+13,Luis Díaz,Left Winger,26,Colombia,Liverpool FC,€75.00m
+14,Bruno Fernandes,Attacking Midfield,28,Portugal,Manchester United,€90.00m
+15,Rúben Dias,Centre-Back,25,Portugal,Manchester City,€75.00m
+16,Mohamed Salah,Right Winger,30,Egypt,Liverpool FC,€150.00m
+17,Jack Grealish,Left Winger,27,England,Manchester City,€100.00m
+18,Antony,Right Winger,23,Brazil,Manchester United,€75.00m
+19,Darwin Núñez,Centre-Forward,23,Uruguay,Liverpool FC,€70.00m
+20,Gabriel Martinelli,Left Winger,21,Brazil,Arsenal FC,€70.00m
+21,Reece James,Right-Back,23,England,Chelsea FC,€70.00m
+22,Wesley Fofana,Centre-Back,22,France,Chelsea FC,€65.00m
+23,Mason Mount,Attacking Midfield,24,England,Chelsea FC,€75.00m
+24,Trent Alexander-Arnold,Right-Back,24,England,Liverpool FC,€110.00m
+25,Cody Gakpo,Left Winger,23,Netherlands,Liverpool FC,€60.00m
+26,Bruno Guimarães,Defensive Midfield,25,Brazil,Newcastle United,€60.00m
+27,Kai Havertz,Attacking Midfield,23,Germany,Chelsea FC,€90.00m
+28,Mykhaylo Mudryk,Left Winger,22,Ukraine,Chelsea FC,€60.00m
+29,Raheem Sterling,Left Winger,28,England,Chelsea FC,€160.00m
+30,Cristian Romero,Centre-Back,24,Argentina,Tottenham Hotspur,€60.00m
+31,Heung-min Son,Left Winger,30,"Korea, South",Tottenham Hotspur,€90.00m
+32,William Saliba,Centre-Back,22,France,Arsenal FC,€55.00m
+33,Diogo Jota,Left Winger,26,Portugal,Liverpool FC,€60.00m
+34,Jadon Sancho,Left Winger,23,England,Manchester United,€130.00m
+35,Dejan Kulusevski,Right Winger,23,Sweden,Tottenham Hotspur,€55.00m
+36,James Maddison,Attacking Midfield,26,England,Leicester City,€60.00m
+37,Richarlison,Centre-Forward,25,Brazil,Tottenham Hotspur,€65.00m
+38,Moisés Caicedo,Defensive Midfield,21,Ecuador,Brighton & Hove Albion,€55.00m
+39,Julián Álvarez,Centre-Forward,23,Argentina,Manchester City,€50.00m
+40,Gabriel Magalhães,Centre-Back,25,Brazil,Arsenal FC,€50.00m
+41,Casemiro,Defensive Midfield,31,Brazil,Manchester United,€80.00m
+42,Ivan Toney,Centre-Forward,27,England,Brentford FC,€50.00m
+43,Alexander Isak,Centre-Forward,23,Sweden,Newcastle United,€50.00m
+44,João Félix,Second Striker,23,Portugal,Chelsea FC,€100.00m
+45,Ben White,Right-Back,25,England,Arsenal FC,€50.00m
+46,Lisandro Martínez,Centre-Back,25,Argentina,Manchester United,€50.00m
+47,Andrew Robertson,Left-Back,29,Scotland,Liverpool FC,€80.00m
+48,Fabinho,Defensive Midfield,29,Brazil,Liverpool FC,€70.00m
+49,Pierre-Emile Höjbjerg,Central Midfield,27,Denmark,Tottenham Hotspur,€45.00m
+50,Alisson,Goalkeeper,30,Brazil,Liverpool FC,€90.00m
