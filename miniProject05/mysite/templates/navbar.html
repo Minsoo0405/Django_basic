@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/css/bootstrap.min.css">
+    <style>
+        /* 스타일 추가 */
+        header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 50px;
+            border-bottom: 1px solid white;
+        }
+        .navbar {
+            font-size: 20px;
+        }
+        .nav-link::before {
+            content: '';
+            display: inline-block;
+            width: 0.5rem;
+            height: 0.5rem;
+            margin-right: 0.5rem;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+<!-- 내비게이션바 -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+ <div class="container-fluid">
+  <h3><a class="navbar-brand" style="font-size: 20px" href="{% url 'pybo:index' %}">트랜스퍼마켓</a></h3>
+  <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse"
+          data-target="#navbarNav" aria-controls="navbarNav"
+          aria-expanded="false" aria-label="Toggle navigation" s>
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding: 1rem 0;">
+    <div class="header_mn">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="league-information-dropdown"
+             role="button" data-toggle="dropdown" aria-haspopup="true"
+             aria-expanded="false">리그 정보</a>
+            <div class="dropdown-menu" aria-labelledby="league-information-dropdown">
+                <a class="dropdown-item" href="#">잉글랜드 프리미어리그</a>
+                <a class="dropdown-item" href="#">스페인 라리가</a>
+                <a class="dropdown-item" href="#">독일 분데스리가</a>
+                <a class="dropdown-item" href="#">이탈리아 세리에 A</a>
+                <a class="dropdown-item" href="#">프랑스 리그1</a>
+                <a class="dropdown-item" href="#">대한민국 K리그1</a>
+            </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="market-value-dropdown"
+             role="button" data-toggle="dropdown" aria-haspopup="true"
+             aria-expanded="false">선수 시장 가치</a>
+            <div class="dropdown-menu" aria-labelledby="market-value-dropdown">
+                <a class="dropdown-item" href="{% url 'pybo:premier_league_list' %}">잉글랜드 프리미어리그</a>
+                <a class="dropdown-item" href="{% url 'pybo:laliga_list' %}">스페인 라리가</a>
+                <a class="dropdown-item" href="{% url 'pybo:bundesliga_list' %}">독일 분데스리가</a>
+                <a class="dropdown-item" href="{% url 'pybo:seria_a_list' %}">이탈리아 세리에 A</a>
+                <a class="dropdown-item" href="{% url 'pybo:league1_list' %}">프랑스 리그1</a>
+                <a class="dropdown-item" href="{% url 'pybo:kleague1_list' %}">대한민국 K리그1</a>
+            </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.transfermarkt.com/whatsMyValue">몸값 비교 게임</a>
+        </li>
+      </ul>
+    </div>
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+            $(function() {
+                var timer;
+                $('#market-value-dropdown, #league-information-dropdown').on('mouseenter', function() {
+                    clearTimeout(timer);
+                    $(this).addClass('show');
+                    $(this).next('.dropdown-menu').addClass('show');
+                    $(this).attr('aria-expanded', true);
+                    $('.dropdown-menu').not($(this).next('.dropdown-menu')).removeClass('show');
+                }).on('mouseleave', function() {
+                    var $self = $(this);
+                    timer = setTimeout(function() {
+                        $self.removeClass('show');
+                        $self.next('.dropdown-menu').removeClass('show');
+                        $self.attr('aria-expanded', false);
+                    }, 15); // 대기 시간 (0.5초)
+                });
+                $('.dropdown-menu').on('mouseenter', function() {
+                    clearTimeout(timer);
+                }).on('mouseleave', function() {
+                    var $self = $(this);
+                    timer = setTimeout(function() {
+                        $self.removeClass('show');
+                        $('#market-value-dropdown, #league-information-dropdown').removeClass('show');
+                        $('#market-value-dropdown, #league-information-dropdown').attr('aria-expanded', false);
+                    }, 500); // 대기 시간 (0.5초)
+                });
+            });
+        </script>
+  </nav>
+  <div class="collapse navbar-collapse flex-grow-0" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+          <li class="nav-item mx-3">
+              {% if user.is_authenticated %}
+              <a class="nav-link" href="{% url 'common:logout' %}">
+                  {{ user.username }} (로그아웃)</a>
+              {% else %}
+              <a class="nav-link" href="{% url 'common:login' %}"> 로그인 </a>
+              {% endif %}
+          </li>
+          <li class="nav-item mx-3">
+              {% if not user.is_authenticated %}
+              <a class="nav-link" href="{% url 'common:signup' %}"> 회원가입 </a>
+              {% endif %}
+          </li>
+      </ul>
+  </div>
+ </div>
+</nav>
+<header>
+
+</header>
+</body>
+</html>

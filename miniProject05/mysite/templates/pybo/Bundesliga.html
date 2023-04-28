@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<title>독일 분데스리가 선수 시장가치</title>
+<link rel="stylesheet" type="text/css" href="{% static 'bootstrap.min.css' %}">
+    <div class="container">
+      <h3>독일 분데스리가 선수 시장가치</h3>
+      <table>
+		<tr>
+			<th>Number</th>
+			<th>Name</th>
+			<th>Position</th>
+			<th>Age</th>
+			<th>Nation</th>
+			<th>Team</th>
+			<th>Value</th>
+			<th>League</th>
+		</tr>
+        {% for player in players %}
+            <tr>
+                <td>{{ player.number }}</td>
+                <td>{{ player.name }}</td>
+                <td>{{ player.position }}</td>
+                <td>{{ player.age }}</td>
+                <td>{{ player.nation }}</td>
+                <td>{{ player.team }}</td>
+                <td>{{ player.value }}</td>
+                <td>{{ player.league }}</td>
+            </tr>
+		{% endfor %}
+	  </table>
+    </div>
+{% endblock %}
