@@ -1,0 +1,51 @@
+number,name,position,age,nation,team,value,league
+1,Ui-jo Hwang,Centre-Forward,30,"Korea, South",FC Seoul,5.00m,Kleague1
+2,Gue-sung Cho,Centre-Forward,25,"Korea, South",Jeonbuk Hyundai Motors,2.50m,Kleague1
+3,Darijan Bojanic,Central Midfield,28,Sweden,Ulsan Hyundai,2.00m,Kleague1
+4,Valeri Qazaishvili,Left Winger,30,Georgia,Ulsan Hyundai,1.50m,Kleague1
+5,Gustav Ludwigson,Right Winger,29,Sweden,Ulsan Hyundai,1.50m,Kleague1
+6,Stanislav Iljutcenko,Centre-Forward,32,Russia,FC Seoul,1.30m,Kleague1
+7,Hyeon-woo Jo,Goalkeeper,31,"Korea, South",Ulsan Hyundai,1.30m,Kleague1
+8,André Luis,Right Winger,26,Brazil,Jeonbuk Hyundai Motors,1.20m,Kleague1
+9,Gustavo,Centre-Forward,29,Brazil,Jeonbuk Hyundai Motors,1.20m,Kleague1
+10,Paul-José Mpoku,Attacking Midfield,31,DR Congo,Incheon United,1.20m,Kleague1
+11,Min-kyu Song,Left Winger,23,"Korea, South",Jeonbuk Hyundai Motors,1.20m,Kleague1
+12,Won-sang Um,Right Winger,24,"Korea, South",Ulsan Hyundai,1.10m,Kleague1
+13,Ataru Esaka,Attacking Midfield,30,Japan,Ulsan Hyundai,1.10m,Kleague1
+14,Seung-ho Paik,Central Midfield,26,"Korea, South",Jeonbuk Hyundai Motors,1.00m,Kleague1
+15,Yong-woo Park,Defensive Midfield,29,"Korea, South",Ulsan Hyundai,1.00m,Kleague1
+16,Martin _dám,Centre-Forward,28,Hungary,Ulsan Hyundai,1.00m,Kleague1
+17,Young-woo Seol,Right-Back,24,"Korea, South",Ulsan Hyundai,1.00m,Kleague1
+18,Cesinha,Attacking Midfield,33,Brazil,Daegu FC,1.00m,Kleague1
+19,Jeong-ho Hong,Centre-Back,33,"Korea, South",Jeonbuk Hyundai Motors,1.00m,Kleague1
+20,Moon-hwan Kim,Right-Back,27,"Korea, South",Jeonbuk Hyundai Motors,950k,Kleague1
+21,Seung-hyun Jung,Centre-Back,29,"Korea, South",Ulsan Hyundai,950k,Kleague1
+22,Young-jun Choi,Defensive Midfield,31,"Korea, South",Jeju United,900k,Kleague1
+23,Sang-ho Na,Left Winger,26,"Korea, South",FC Seoul,900k,Kleague1
+24,Dae-won Kim,Left Winger,26,"Korea, South",Gangwon FC,900k,Kleague1
+25,Tae-hwan Kim,Right-Back,33,"Korea, South",Ulsan Hyundai,900k,Kleague1
+26,Dave Bulthuis,Centre-Back,32,Netherlands,Suwon Samsung Bluewings,900k,Kleague1
+27,Min-kyu Joo,Centre-Forward,33,"Korea, South",Ulsan Hyundai,900k,Kleague1
+28,Seung-beom Ko,Central Midfield,29,"Korea, South",Suwon Samsung Bluewings,875k,Kleague1
+29,Kyo-won Han,Right Winger,32,"Korea, South",Jeonbuk Hyundai Motors,850k,Kleague1
+30,Bit-garam Yoon,Central Midfield,32,"Korea, South",Suwon FC,850k,Kleague1
+31,Aleksandar Palocevic,Attacking Midfield,29,Serbia,FC Seoul,850k,Kleague1
+32,Kook-young Han,Defensive Midfield,33,"Korea, South",Gangwon FC,850k,Kleague1
+33,Jun Amano,Attacking Midfield,31,Japan,Jeonbuk Hyundai Motors,800k,Kleague1
+34,Jonathan Ring,Right Winger,31,Sweden,Jeju United,800k,Kleague1
+35,Tae-wook Jeong,Centre-Back,25,"Korea, South",Jeonbuk Hyundai Motors,800k,Kleague1
+36,Il-lok Yun,Left Winger,31,"Korea, South",Ulsan Hyundai,775k,Kleague1
+37,Gerso,Left Winger,32,Guinea-Bissau,Incheon United,775k,Kleague1
+38,Jin-hyuk Kim,Centre-Back,29,"Korea, South",Daegu FC,775k,Kleague1
+39,Bo-kyung Kim,Attacking Midfield,33,"Korea, South",Suwon Samsung Bluewings,750k,Kleague1
+40,Jae-hyun Go,Attacking Midfield,24,"Korea, South",Daegu FC,750k,Kleague1
+41,Lars Veldwijk,Centre-Forward,31,South Africa,Suwon FC,750k,Kleague1
+42,Gyu-sung Lee,Attacking Midfield,28,"Korea, South",Ulsan Hyundai,750k,Kleague1
+43,Sung-yueng Ki,Defensive Midfield,34,"Korea, South",FC Seoul,750k,Kleague1
+44,Osmar,Centre-Back,34,Spain,FC Seoul,750k,Kleague1
+45,Chang-min Lee,Central Midfield,29,"Korea, South",Jeju United,725k,Kleague1
+46,Jin-ho Shin,Attacking Midfield,34,"Korea, South",Incheon United,725k,Kleague1
+47,Yu-min Cho,Centre-Back,26,"Korea, South",Daejeon Hana Citizen,725k,Kleague1
+48,Geon-ung Kim,Defensive Midfield,25,"Korea, South",Jeonbuk Hyundai Motors,700k,Kleague1
+49,Fejsal Mulic,Centre-Forward,28,Serbia,Suwon Samsung Bluewings,700k,Kleague1
+50,Byong-jun An,Centre-Forward,32,"Korea, North",Suwon Samsung Bluewings,700k,Kleague1
