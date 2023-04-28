@@ -1,0 +1,51 @@
+number,name,position,age,nation,team,value,league
+1,Vinicius Junior,Left Winger,22,Brazil,Real Madrid,120.00m,LaLiga
+2,Federico Valverde,Central Midfield,24,Uruguay,Real Madrid,100.00m,LaLiga
+3,Pedri,Central Midfield,20,Spain,FC Barcelona,100.00m,LaLiga
+4,Gavi,Central Midfield,18,Spain,FC Barcelona,90.00m,LaLiga
+5,Aurélien Tchouaméni,Defensive Midfield,23,France,Real Madrid,90.00m,LaLiga
+6,Rodrygo,Right Winger,22,Brazil,Real Madrid,80.00m,LaLiga
+7,Ronald Araújo,Centre-Back,24,Uruguay,FC Barcelona,70.00m,LaLiga
+8,_der Militão,Centre-Back,25,Brazil,Real Madrid,70.00m,LaLiga
+9,Frenkie de Jong,Central Midfield,25,Netherlands,FC Barcelona,60.00m,LaLiga
+10,Eduardo Camavinga,Central Midfield,20,France,Real Madrid,60.00m,LaLiga
+11,Jules Koundé,Centre-Back,24,France,FC Barcelona,60.00m,LaLiga
+12,Thibaut Courtois,Goalkeeper,30,Belgium,Real Madrid,60.00m,LaLiga
+13,Ousmane Dembélé,Right Winger,25,France,FC Barcelona,60.00m,LaLiga
+14,Mikel Merino,Central Midfield,26,Spain,Real Sociedad,50.00m,LaLiga
+15,Mikel Oyarzabal,Left Winger,26,Spain,Real Sociedad,50.00m,LaLiga
+16,Raphinha,Right Winger,26,Brazil,FC Barcelona,50.00m,LaLiga
+17,David Alaba,Centre-Back,30,Austria,Real Madrid,50.00m,LaLiga
+18,Pau Torres,Centre-Back,26,Spain,Villarreal CF,45.00m,LaLiga
+19,Marc-André ter Stegen,Goalkeeper,30,Germany,FC Barcelona,40.00m,LaLiga
+20,Rodrigo de Paul,Central Midfield,28,Argentina,Atlético de Madrid,40.00m,LaLiga
+21,Robert Lewandowski,Centre-Forward,34,Poland,FC Barcelona,40.00m,LaLiga
+22,Jan Oblak,Goalkeeper,30,Slovenia,Atlético de Madrid,40.00m,LaLiga
+23,Antonio Rüdiger,Centre-Back,30,Germany,Real Madrid,40.00m,LaLiga
+24,Martín Zubimendi,Defensive Midfield,24,Spain,Real Sociedad,40.00m,LaLiga
+25,Yéremy Pino,Right Winger,20,Spain,Villarreal CF,38.00m,LaLiga
+26,Ansu Fati,Left Winger,20,Spain,FC Barcelona,35.00m,LaLiga
+27,José Gay_,Left-Back,27,Spain,Valencia CF,35.00m,LaLiga
+28,José María Giménez,Centre-Back,28,Uruguay,Atlético de Madrid,35.00m,LaLiga
+29,Robin Le Normand,Centre-Back,26,France,Real Sociedad,35.00m,LaLiga
+30,_ngel Correa,Right Winger,28,Argentina,Atlético de Madrid,35.00m,LaLiga
+31,Karim Benzema,Centre-Forward,35,France,Real Madrid,35.00m,LaLiga
+32,Ferland Mendy,Left-Back,27,France,Real Madrid,35.00m,LaLiga
+33,Marcos Llorente,Central Midfield,28,Spain,Atlético de Madrid,35.00m,LaLiga
+34,Gabri Veiga,Attacking Midfield,20,Spain,Celta de Vigo,30.00m,LaLiga
+35,Ferran Torres,Left Winger,23,Spain,FC Barcelona,30.00m,LaLiga
+36,Alejandro Balde,Left-Back,19,Spain,FC Barcelona,30.00m,LaLiga
+37,Andreas Christensen,Centre-Back,27,Denmark,FC Barcelona,30.00m,LaLiga
+38,Gerard Moreno,Centre-Forward,31,Spain,Villarreal CF,30.00m,LaLiga
+39,Oihan Sancet,Attacking Midfield,23,Spain,Athletic Bilbao,30.00m,LaLiga
+40,Nabil Fekir,Attacking Midfield,29,France,Real Betis Balompié,30.00m,LaLiga
+41,Brais Méndez,Attacking Midfield,26,Spain,Real Sociedad,30.00m,LaLiga
+42,Guido Rodríguez,Defensive Midfield,29,Argentina,Real Betis Balompié,28.00m,LaLiga
+43,Franck Kessié,Central Midfield,26,Cote d'Ivoire,FC Barcelona,28.00m,LaLiga
+44,Giorgi Mamardashvili,Goalkeeper,22,Georgia,Valencia CF,25.00m,LaLiga
+45,_lvaro Morata,Centre-Forward,30,Spain,Atlético de Madrid,25.00m,LaLiga
+46,Enes _nal,Centre-Forward,25,Turkey,Getafe CF,25.00m,LaLiga
+47,Reinildo Mandava,Left-Back,29,Mozambique,Atlético de Madrid,25.00m,LaLiga
+48,Borja Iglesias,Centre-Forward,30,Spain,Real Betis Balompié,25.00m,LaLiga
+49,Yannick Carrasco,Left Winger,29,Belgium,Atlético de Madrid,25.00m,LaLiga
+50,Iñaki Williams,Centre-Forward,28,Ghana,Athletic Bilbao,25.00m,LaLiga
