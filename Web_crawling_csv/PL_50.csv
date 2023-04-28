@@ -1,51 +1,51 @@
-﻿number,name,position,age,nation,team,value,league
-1,Erling Haaland,Centre-Forward,22,Norway,Manchester City,170.00m,PL
-2,Phil Foden,Left Winger,22,England,Manchester City,110.00m,PL
-3,Bukayo Saka,Right Winger,21,England,Arsenal FC,110.00m,PL
-4,Harry Kane,Centre-Forward,29,England,Tottenham Hotspur,150.00m,PL
-5,Enzo Fern찼ndez,Defensive Midfield,22,Argentina,Chelsea FC,85.00m,PL
-6,Declan Rice,Defensive Midfield,24,England,West Ham United,80.00m,PL
-7,Rodri,Defensive Midfield,26,Spain,Manchester City,80.00m,PL
-8,Martin _degaard,Attacking Midfield,24,Norway,Arsenal FC,80.00m,PL
-9,Kevin De Bruyne,Attacking Midfield,31,Belgium,Manchester City,150.00m,PL
-10,Bernardo Silva,Attacking Midfield,28,Portugal,Manchester City,100.00m,PL
-11,Marcus Rashford,Left Winger,25,England,Manchester United,85.00m,PL
-12,Gabriel Jesus,Centre-Forward,26,Brazil,Arsenal FC,80.00m,PL
-13,Luis D챠az,Left Winger,26,Colombia,Liverpool FC,75.00m,PL
-14,Bruno Fernandes,Attacking Midfield,28,Portugal,Manchester United,90.00m,PL
-15,R첬ben Dias,Centre-Back,25,Portugal,Manchester City,75.00m,PL
-16,Mohamed Salah,Right Winger,30,Egypt,Liverpool FC,150.00m,PL
-17,Jack Grealish,Left Winger,27,England,Manchester City,100.00m,PL
-18,Antony,Right Winger,23,Brazil,Manchester United,75.00m,PL
-19,Darwin N첬챰ez,Centre-Forward,23,Uruguay,Liverpool FC,70.00m,PL
-20,Gabriel Martinelli,Left Winger,21,Brazil,Arsenal FC,70.00m,PL
-21,Reece James,Right-Back,23,England,Chelsea FC,70.00m,PL
-22,Wesley Fofana,Centre-Back,22,France,Chelsea FC,65.00m,PL
-23,Mason Mount,Attacking Midfield,24,England,Chelsea FC,75.00m,PL
-24,Trent Alexander-Arnold,Right-Back,24,England,Liverpool FC,110.00m,PL
-25,Cody Gakpo,Left Winger,23,Netherlands,Liverpool FC,60.00m,PL
-26,Bruno Guimar찾es,Defensive Midfield,25,Brazil,Newcastle United,60.00m,PL
-27,Kai Havertz,Attacking Midfield,23,Germany,Chelsea FC,90.00m,PL
-28,Mykhaylo Mudryk,Left Winger,22,Ukraine,Chelsea FC,60.00m,PL
-29,Raheem Sterling,Left Winger,28,England,Chelsea FC,160.00m,PL
-30,Cristian Romero,Centre-Back,24,Argentina,Tottenham Hotspur,60.00m,PL
-31,Heung-min Son,Left Winger,30,"Korea, South",Tottenham Hotspur,90.00m,PL
-32,William Saliba,Centre-Back,22,France,Arsenal FC,55.00m,PL
-33,Diogo Jota,Left Winger,26,Portugal,Liverpool FC,60.00m,PL
-34,Jadon Sancho,Left Winger,23,England,Manchester United,130.00m,PL
-35,Dejan Kulusevski,Right Winger,23,Sweden,Tottenham Hotspur,55.00m,PL
-36,James Maddison,Attacking Midfield,26,England,Leicester City,60.00m,PL
-37,Richarlison,Centre-Forward,25,Brazil,Tottenham Hotspur,65.00m,PL
-38,Mois챕s Caicedo,Defensive Midfield,21,Ecuador,Brighton & Hove Albion,55.00m,PL
-39,Juli찼n _lvarez,Centre-Forward,23,Argentina,Manchester City,50.00m,PL
-40,Gabriel Magalh찾es,Centre-Back,25,Brazil,Arsenal FC,50.00m,PL
-41,Casemiro,Defensive Midfield,31,Brazil,Manchester United,80.00m,PL
-42,Ivan Toney,Centre-Forward,27,England,Brentford FC,50.00m,PL
-43,Alexander Isak,Centre-Forward,23,Sweden,Newcastle United,50.00m,PL
-44,Jo찾o F챕lix,Second Striker,23,Portugal,Chelsea FC,100.00m,PL
-45,Ben White,Right-Back,25,England,Arsenal FC,50.00m,PL
-46,Lisandro Mart챠nez,Centre-Back,25,Argentina,Manchester United,50.00m,PL
-47,Andrew Robertson,Left-Back,29,Scotland,Liverpool FC,80.00m,PL
-48,Fabinho,Defensive Midfield,29,Brazil,Liverpool FC,70.00m,PL
-49,Pierre-Emile H철jbjerg,Central Midfield,27,Denmark,Tottenham Hotspur,45.00m,PL
-50,Alisson,Goalkeeper,30,Brazil,Liverpool FC,90.00m,PL
+number,name,position,age,nation,team,value,league
+1,Erling Haaland,Centre-Forward,22,Norway,Manchester City,170.00m,Premier League
+2,Phil Foden,Left Winger,22,England,Manchester City,110.00m,Premier League
+3,Bukayo Saka,Right Winger,21,England,Arsenal FC,110.00m,Premier League
+4,Harry Kane,Centre-Forward,29,England,Tottenham Hotspur,90.00m,Premier League
+5,Enzo Fern_ndez,Defensive Midfield,22,Argentina,Chelsea FC,85.00m,Premier League
+6,Declan Rice,Defensive Midfield,24,England,West Ham United,80.00m,Premier League
+7,Rodri,Defensive Midfield,26,Spain,Manchester City,80.00m,Premier League
+8,Martin _degaard,Attacking Midfield,24,Norway,Arsenal FC,80.00m,Premier League
+9,Kevin De Bruyne,Attacking Midfield,31,Belgium,Manchester City,80.00m,Premier League
+10,Bernardo Silva,Attacking Midfield,28,Portugal,Manchester City,80.00m,Premier League
+11,Marcus Rashford,Left Winger,25,England,Manchester United,80.00m,Premier League
+12,Gabriel Jesus,Centre-Forward,26,Brazil,Arsenal FC,75.00m,Premier League
+13,Luis Díaz,Left Winger,26,Colombia,Liverpool FC,75.00m,Premier League
+14,Bruno Fernandes,Attacking Midfield,28,Portugal,Manchester United,75.00m,Premier League
+15,Rúben Dias,Centre-Back,25,Portugal,Manchester City,75.00m,Premier League
+16,Mohamed Salah,Right Winger,30,Egypt,Liverpool FC,70.00m,Premier League
+17,Jack Grealish,Left Winger,27,England,Manchester City,70.00m,Premier League
+18,Antony,Right Winger,23,Brazil,Manchester United,70.00m,Premier League
+19,Darwin Núñez,Centre-Forward,23,Uruguay,Liverpool FC,70.00m,Premier League
+20,Gabriel Martinelli,Left Winger,21,Brazil,Arsenal FC,70.00m,Premier League
+21,Reece James,Right-Back,23,England,Chelsea FC,70.00m,Premier League
+22,Wesley Fofana,Centre-Back,22,France,Chelsea FC,65.00m,Premier League
+23,Mason Mount,Attacking Midfield,24,England,Chelsea FC,65.00m,Premier League
+24,Trent Alexander-Arnold,Right-Back,24,England,Liverpool FC,65.00m,Premier League
+25,Cody Gakpo,Left Winger,23,Netherlands,Liverpool FC,60.00m,Premier League
+26,Bruno Guimarães,Defensive Midfield,25,Brazil,Newcastle United,60.00m,Premier League
+27,Kai Havertz,Attacking Midfield,23,Germany,Chelsea FC,60.00m,Premier League
+28,Mykhaylo Mudryk,Left Winger,22,Ukraine,Chelsea FC,60.00m,Premier League
+29,Raheem Sterling,Left Winger,28,England,Chelsea FC,60.00m,Premier League
+30,Cristian Romero,Centre-Back,25,Argentina,Tottenham Hotspur,60.00m,Premier League
+31,Heung-min Son,Left Winger,30,"Korea, South",Tottenham Hotspur,60.00m,Premier League
+32,William Saliba,Centre-Back,22,France,Arsenal FC,55.00m,Premier League
+33,Diogo Jota,Left Winger,26,Portugal,Liverpool FC,55.00m,Premier League
+34,Jadon Sancho,Left Winger,23,England,Manchester United,55.00m,Premier League
+35,Dejan Kulusevski,Right Winger,23,Sweden,Tottenham Hotspur,55.00m,Premier League
+36,James Maddison,Attacking Midfield,26,England,Leicester City,55.00m,Premier League
+37,Richarlison,Centre-Forward,25,Brazil,Tottenham Hotspur,55.00m,Premier League
+38,Moisés Caicedo,Defensive Midfield,21,Ecuador,Brighton & Hove Albion,55.00m,Premier League
+39,Julián _lvarez,Centre-Forward,23,Argentina,Manchester City,50.00m,Premier League
+40,Gabriel Magalhães,Centre-Back,25,Brazil,Arsenal FC,50.00m,Premier League
+41,Casemiro,Defensive Midfield,31,Brazil,Manchester United,50.00m,Premier League
+42,Ivan Toney,Centre-Forward,27,England,Brentford FC,50.00m,Premier League
+43,Alexander Isak,Centre-Forward,23,Sweden,Newcastle United,50.00m,Premier League
+44,João Félix,Second Striker,23,Portugal,Chelsea FC,50.00m,Premier League
+45,Ben White,Right-Back,25,England,Arsenal FC,50.00m,Premier League
+46,Lisandro Martínez,Centre-Back,25,Argentina,Manchester United,50.00m,Premier League
+47,Andrew Robertson,Left-Back,29,Scotland,Liverpool FC,48.00m,Premier League
+48,Fabinho,Defensive Midfield,29,Brazil,Liverpool FC,45.00m,Premier League
+49,Pierre-Emile Höjbjerg,Central Midfield,27,Denmark,Tottenham Hotspur,45.00m,Premier League
+50,Alisson,Goalkeeper,30,Brazil,Liverpool FC,45.00m,Premier League

@@ -1,51 +1,51 @@
 number,name,position,age,nation,team,value,league
-1,Victor Osimhen,Centre-Forward,24,Nigeria,SSC Napoli,100.00m,SeriaA
-2,Khvicha Kvaratskhelia,Left Winger,22,Georgia,SSC Napoli,85.00m,SeriaA
-3,Lautaro Martínez,Centre-Forward,25,Argentina,Inter Milan,80.00m,SeriaA
-4,Rafael Leão,Left Winger,23,Portugal,AC Milan,85.00m,SeriaA
-5,Dusan Vlahovic,Centre-Forward,23,Serbia,Juventus FC,85.00m,SeriaA
-6,Nicolò Barella,Central Midfield,26,Italy,Inter Milan,70.00m,SeriaA
-7,Sergej Milinkovi_-Savi_,Central Midfield,28,Serbia,SS Lazio,90.00m,SeriaA
-8,Milan Skriniar,Centre-Back,28,Slovakia,Inter Milan,65.00m,SeriaA
-9,Theo Hernández,Left-Back,25,France,AC Milan,60.00m,SeriaA
-10,Alessandro Bastoni,Centre-Back,24,Italy,Inter Milan,60.00m,SeriaA
-11,Federico Chiesa,Left Winger,25,Italy,Juventus FC,70.00m,SeriaA
-12,Min-jae Kim,Centre-Back,26,"Korea, South",SSC Napoli,50.00m,SeriaA
-13,Sandro Tonali,Defensive Midfield,22,Italy,AC Milan,50.00m,SeriaA
-14,Fikayo Tomori,Centre-Back,25,England,AC Milan,50.00m,SeriaA
-15,Tammy Abraham,Centre-Forward,25,England,AS Roma,50.00m,SeriaA
-16,Romelu Lukaku,Centre-Forward,29,Belgium,Inter Milan,100.00m,SeriaA
-17,Bremer,Centre-Back,26,Brazil,Juventus FC,40.00m,SeriaA
-18,Ismaël Bennacer,Defensive Midfield,25,Algeria,AC Milan,40.00m,SeriaA
-19,Piotr Zielinski,Central Midfield,28,Poland,SSC Napoli,50.00m,SeriaA
-20,Frank Anguissa,Central Midfield,27,Cameroon,SSC Napoli,40.00m,SeriaA
-21,Stanislav Lobotka,Defensive Midfield,28,Slovakia,SSC Napoli,38.00m,SeriaA
-22,Lorenzo Pellegrini,Attacking Midfield,26,Italy,AS Roma,45.00m,SeriaA
-23,Rasmus Højlund,Centre-Forward,20,Denmark,Atalanta BC,35.00m,SeriaA
-24,Mike Maignan,Goalkeeper,27,France,AC Milan,35.00m,SeriaA
-25,Hakan Calhanoglu,Central Midfield,29,Turkey,Inter Milan,35.00m,SeriaA
-26,Pierre Kalulu,Centre-Back,22,France,AC Milan,35.00m,SeriaA
-27,Giacomo Raspadori,Second Striker,23,Italy,SSC Napoli,35.00m,SeriaA
-28,Giorgio Scalvini,Centre-Back,19,Italy,Atalanta BC,30.00m,SeriaA
-29,Roger Ibañez,Centre-Back,24,Brazil,AS Roma,30.00m,SeriaA
-30,Teun Koopmeiners,Defensive Midfield,25,Netherlands,Atalanta BC,30.00m,SeriaA
-31,Manuel Locatelli,Defensive Midfield,25,Italy,Juventus FC,35.00m,SeriaA
-32,Paulo Dybala,Second Striker,29,Argentina,AS Roma,110.00m,SeriaA
-33,Ademola Lookman,Second Striker,25,Nigeria,Atalanta BC,30.00m,SeriaA
-34,Adrien Rabiot,Central Midfield,28,France,Juventus FC,50.00m,SeriaA
-35,Denzel Dumfries,Right Midfield,27,Netherlands,Inter Milan,28.00m,SeriaA
-36,Nicolás González,Left Winger,25,Argentina,ACF Fiorentina,28.00m,SeriaA
-37,Hirving Lozano,Right Winger,27,Mexico,SSC Napoli,45.00m,SeriaA
-38,Marcelo Brozovic,Defensive Midfield,30,Croatia,Inter Milan,60.00m,SeriaA
-39,Charles De Ketelaere,Attacking Midfield,22,Belgium,AC Milan,30.00m,SeriaA
-40,Eljif Elmas,Central Midfield,23,North Macedonia,SSC Napoli,26.00m,SeriaA
-41,Federico Dimarco,Left-Back,25,Italy,Inter Milan,25.00m,SeriaA
-42,Mario Pasalic,Attacking Midfield,28,Croatia,Atalanta BC,28.00m,SeriaA
-43,Mattia Zaccagni,Left Winger,27,Italy,SS Lazio,25.00m,SeriaA
-44,Sofyan Amrabat,Defensive Midfield,26,Morocco,ACF Fiorentina,25.00m,SeriaA
-45,Tanguy Ndombélé,Central Midfield,26,France,SSC Napoli,65.00m,SeriaA
-46,Amir Rrahmani,Centre-Back,29,Kosovo,SSC Napoli,25.00m,SeriaA
-47,Giovanni Di Lorenzo,Right-Back,29,Italy,SSC Napoli,25.00m,SeriaA
-48,Merih Demiral,Centre-Back,25,Turkey,Atalanta BC,30.00m,SeriaA
-49,Filip Kosti_,Left Midfield,30,Serbia,Juventus FC,40.00m,SeriaA
-50,Destiny Udogie,Left-Back,20,Italy,Udinese Calcio,22.00m,SeriaA
+1,Victor Osimhen,Centre-Forward,24,Nigeria,SSC Napoli,100.00m,Seria A
+2,Khvicha Kvaratskhelia,Left Winger,22,Georgia,SSC Napoli,85.00m,Seria A
+3,Lautaro Martínez,Centre-Forward,25,Argentina,Inter Milan,80.00m,Seria A
+4,Rafael Leão,Left Winger,23,Portugal,AC Milan,80.00m,Seria A
+5,Dusan Vlahovic,Centre-Forward,23,Serbia,Juventus FC,75.00m,Seria A
+6,Nicolò Barella,Central Midfield,26,Italy,Inter Milan,70.00m,Seria A
+7,Sergej Milinkovi_-Savi_,Central Midfield,28,Serbia,SS Lazio,60.00m,Seria A
+8,Milan Skriniar,Centre-Back,28,Slovakia,Inter Milan,60.00m,Seria A
+9,Theo Hernández,Left-Back,25,France,AC Milan,60.00m,Seria A
+10,Alessandro Bastoni,Centre-Back,24,Italy,Inter Milan,55.00m,Seria A
+11,Federico Chiesa,Left Winger,25,Italy,Juventus FC,50.00m,Seria A
+12,Min-jae Kim,Centre-Back,26,"Korea, South",SSC Napoli,50.00m,Seria A
+13,Sandro Tonali,Defensive Midfield,22,Italy,AC Milan,50.00m,Seria A
+14,Fikayo Tomori,Centre-Back,25,England,AC Milan,45.00m,Seria A
+15,Tammy Abraham,Centre-Forward,25,England,AS Roma,45.00m,Seria A
+16,Romelu Lukaku,Centre-Forward,29,Belgium,Inter Milan,40.00m,Seria A
+17,Bremer,Centre-Back,26,Brazil,Juventus FC,40.00m,Seria A
+18,Ismaël Bennacer,Defensive Midfield,25,Algeria,AC Milan,40.00m,Seria A
+19,Piotr Zielinski,Central Midfield,28,Poland,SSC Napoli,40.00m,Seria A
+20,Frank Anguissa,Central Midfield,27,Cameroon,SSC Napoli,40.00m,Seria A
+21,Stanislav Lobotka,Defensive Midfield,28,Slovakia,SSC Napoli,38.00m,Seria A
+22,Lorenzo Pellegrini,Attacking Midfield,26,Italy,AS Roma,35.00m,Seria A
+23,Mike Maignan,Goalkeeper,27,France,AC Milan,35.00m,Seria A
+24,Rasmus Højlund,Centre-Forward,20,Denmark,Atalanta BC,35.00m,Seria A
+25,Hakan Calhanoglu,Central Midfield,29,Turkey,Inter Milan,35.00m,Seria A
+26,Pierre Kalulu,Centre-Back,22,France,AC Milan,35.00m,Seria A
+27,Giacomo Raspadori,Second Striker,23,Italy,SSC Napoli,35.00m,Seria A
+28,Giorgio Scalvini,Centre-Back,19,Italy,Atalanta BC,30.00m,Seria A
+29,Roger Ibañez,Centre-Back,24,Brazil,AS Roma,30.00m,Seria A
+30,Teun Koopmeiners,Defensive Midfield,25,Netherlands,Atalanta BC,30.00m,Seria A
+31,Manuel Locatelli,Defensive Midfield,25,Italy,Juventus FC,30.00m,Seria A
+32,Paulo Dybala,Second Striker,29,Argentina,AS Roma,30.00m,Seria A
+33,Ademola Lookman,Second Striker,25,Nigeria,Atalanta BC,30.00m,Seria A
+34,Adrien Rabiot,Central Midfield,28,France,Juventus FC,30.00m,Seria A
+35,Denzel Dumfries,Right Midfield,27,Netherlands,Inter Milan,28.00m,Seria A
+36,Nicolás González,Left Winger,25,Argentina,ACF Fiorentina,28.00m,Seria A
+37,Marcelo Brozovic,Defensive Midfield,30,Croatia,Inter Milan,28.00m,Seria A
+38,Hirving Lozano,Right Winger,27,Mexico,SSC Napoli,28.00m,Seria A
+39,Charles De Ketelaere,Attacking Midfield,22,Belgium,AC Milan,27.00m,Seria A
+40,Eljif Elmas,Central Midfield,23,North Macedonia,SSC Napoli,26.00m,Seria A
+41,Federico Dimarco,Left-Back,25,Italy,Inter Milan,25.00m,Seria A
+42,Mattia Zaccagni,Left Winger,27,Italy,SS Lazio,25.00m,Seria A
+43,Mario Pasalic,Attacking Midfield,28,Croatia,Atalanta BC,25.00m,Seria A
+44,Sofyan Amrabat,Defensive Midfield,26,Morocco,ACF Fiorentina,25.00m,Seria A
+45,Tanguy Ndombélé,Central Midfield,26,France,SSC Napoli,25.00m,Seria A
+46,Amir Rrahmani,Centre-Back,29,Kosovo,SSC Napoli,25.00m,Seria A
+47,Giovanni Di Lorenzo,Right-Back,29,Italy,SSC Napoli,25.00m,Seria A
+48,Merih Demiral,Centre-Back,25,Turkey,Atalanta BC,25.00m,Seria A
+49,Filip Kosti_,Left Midfield,30,Serbia,Juventus FC,24.00m,Seria A
+50,Destiny Udogie,Left-Back,20,Italy,Udinese Calcio,22.00m,Seria A

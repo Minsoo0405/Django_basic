@@ -2,50 +2,50 @@ number,name,position,age,nation,team,value,league
 1,Jude Bellingham,Central Midfield,19,England,Borussia Dortmund,120.00m,Bundesliga
 2,Jamal Musiala,Attacking Midfield,20,Germany,Bayern Munich,110.00m,Bundesliga
 3,Florian Wirtz,Attacking Midfield,19,Germany,Bayer 04 Leverkusen,85.00m,Bundesliga
-4,Joshua Kimmich,Defensive Midfield,28,Germany,Bayern Munich,90.00m,Bundesliga
+4,Joshua Kimmich,Defensive Midfield,28,Germany,Bayern Munich,80.00m,Bundesliga
 5,Christopher Nkunku,Second Striker,25,France,RB Leipzig,80.00m,Bundesliga
-6,Josko Gvardiol,Centre-Back,21,Croatia,RB Leipzig,75.00m,Bundesliga
-7,Matthijs de Ligt,Centre-Back,23,Netherlands,Bayern Munich,75.00m,Bundesliga
-8,Alphonso Davies,Left-Back,22,Canada,Bayern Munich,80.00m,Bundesliga
-9,Leroy Sané,Right Winger,27,Germany,Bayern Munich,100.00m,Bundesliga
-10,Leon Goretzka,Central Midfield,28,Germany,Bayern Munich,70.00m,Bundesliga
+6,Matthijs de Ligt,Centre-Back,23,Netherlands,Bayern Munich,75.00m,Bundesliga
+7,Josko Gvardiol,Centre-Back,21,Croatia,RB Leipzig,75.00m,Bundesliga
+8,Alphonso Davies,Left-Back,22,Canada,Bayern Munich,70.00m,Bundesliga
+9,Leroy Sané,Right Winger,27,Germany,Bayern Munich,70.00m,Bundesliga
+10,Leon Goretzka,Central Midfield,28,Germany,Bayern Munich,65.00m,Bundesliga
 11,Kingsley Coman,Left Winger,26,France,Bayern Munich,65.00m,Bundesliga
 12,Randal Kolo Muani,Centre-Forward,24,France,Eintracht Frankfurt,65.00m,Bundesliga
-13,João Cancelo,Right-Back,28,Portugal,Bayern Munich,70.00m,Bundesliga
+13,João Cancelo,Right-Back,28,Portugal,Bayern Munich,60.00m,Bundesliga
 14,Dayot Upamecano,Centre-Back,24,France,Bayern Munich,60.00m,Bundesliga
-15,Serge Gnabry,Right Winger,27,Germany,Bayern Munich,90.00m,Bundesliga
-16,Lucas Hernández,Centre-Back,27,France,Bayern Munich,70.00m,Bundesliga
-17,Moussa Diaby,Right Winger,23,France,Bayer 04 Leverkusen,60.00m,Bundesliga
-18,Sadio Mané,Left Winger,31,Senegal,Bayern Munich,150.00m,Bundesliga
-19,Julian Brandt,Attacking Midfield,26,Germany,Borussia Dortmund,50.00m,Bundesliga
-20,Dani Olmo,Attacking Midfield,24,Spain,RB Leipzig,50.00m,Bundesliga
-21,Nico Schlotterbeck,Centre-Back,23,Germany,Borussia Dortmund,40.00m,Bundesliga
-22,Dominik Szoboszlai,Attacking Midfield,22,Hungary,RB Leipzig,40.00m,Bundesliga
-23,Benjamin Pavard,Right-Back,27,France,Bayern Munich,45.00m,Bundesliga
-24,Jeremie Frimpong,Right-Back,22,Netherlands,Bayer 04 Leverkusen,35.00m,Bundesliga
-25,Karim Adeyemi,Left Winger,21,Germany,Borussia Dortmund,35.00m,Bundesliga
-26,Niklas Süle,Centre-Back,27,Germany,Borussia Dortmund,60.00m,Bundesliga
-27,Gregor Kobel,Goalkeeper,25,Switzerland,Borussia Dortmund,35.00m,Bundesliga
-28,Marcus Thuram,Centre-Forward,25,France,Borussia Mönchengladbach,40.00m,Bundesliga
+15,Serge Gnabry,Right Winger,27,Germany,Bayern Munich,55.00m,Bundesliga
+16,Lucas Hernández,Centre-Back,27,France,Bayern Munich,50.00m,Bundesliga
+17,Moussa Diaby,Right Winger,23,France,Bayer 04 Leverkusen,50.00m,Bundesliga
+18,Sadio Mané,Left Winger,31,Senegal,Bayern Munich,45.00m,Bundesliga
+19,Dani Olmo,Attacking Midfield,24,Spain,RB Leipzig,40.00m,Bundesliga
+20,Nico Schlotterbeck,Centre-Back,23,Germany,Borussia Dortmund,40.00m,Bundesliga
+21,Dominik Szoboszlai,Attacking Midfield,22,Hungary,RB Leipzig,40.00m,Bundesliga
+22,Julian Brandt,Attacking Midfield,26,Germany,Borussia Dortmund,40.00m,Bundesliga
+23,Karim Adeyemi,Left Winger,21,Germany,Borussia Dortmund,35.00m,Bundesliga
+24,Niklas Süle,Centre-Back,27,Germany,Borussia Dortmund,35.00m,Bundesliga
+25,Gregor Kobel,Goalkeeper,25,Switzerland,Borussia Dortmund,35.00m,Bundesliga
+26,Benjamin Pavard,Right-Back,27,France,Bayern Munich,35.00m,Bundesliga
+27,Jeremie Frimpong,Right-Back,22,Netherlands,Bayer 04 Leverkusen,35.00m,Bundesliga
+28,Marcus Thuram,Centre-Forward,25,France,Borussia Mönchengladbach,32.00m,Bundesliga
 29,Evan Ndicka,Centre-Back,23,France,Eintracht Frankfurt,32.00m,Bundesliga
-30,Patrik Schick,Centre-Forward,27,Czech Republic,Bayer 04 Leverkusen,50.00m,Bundesliga
-31,Ryan Gravenberch,Central Midfield,20,Netherlands,Bayern Munich,35.00m,Bundesliga
-32,Manu Koné,Central Midfield,21,France,Borussia Mönchengladbach,30.00m,Bundesliga
-33,Edmond Tapsoba,Centre-Back,24,Burkina Faso,Bayer 04 Leverkusen,40.00m,Bundesliga
-34,Daichi Kamada,Attacking Midfield,26,Japan,Eintracht Frankfurt,30.00m,Bundesliga
-35,Sébastien Haller,Centre-Forward,28,Cote d'Ivoire,Borussia Dortmund,45.00m,Bundesliga
-36,Youssoufa Moukoko,Centre-Forward,18,Germany,Borussia Dortmund,30.00m,Bundesliga
+30,Ryan Gravenberch,Central Midfield,20,Netherlands,Bayern Munich,30.00m,Bundesliga
+31,Manu Koné,Central Midfield,21,France,Borussia Mönchengladbach,30.00m,Bundesliga
+32,Edmond Tapsoba,Centre-Back,24,Burkina Faso,Bayer 04 Leverkusen,30.00m,Bundesliga
+33,Daichi Kamada,Attacking Midfield,26,Japan,Eintracht Frankfurt,30.00m,Bundesliga
+34,Sébastien Haller,Centre-Forward,28,Cote d'Ivoire,Borussia Dortmund,30.00m,Bundesliga
+35,Youssoufa Moukoko,Centre-Forward,18,Germany,Borussia Dortmund,30.00m,Bundesliga
+36,Patrik Schick,Centre-Forward,27,Czech Republic,Bayer 04 Leverkusen,30.00m,Bundesliga
 37,Mohamed Simakan,Centre-Back,22,France,RB Leipzig,28.00m,Bundesliga
-38,Giovanni Reyna,Attacking Midfield,20,United States,Borussia Dortmund,42.00m,Bundesliga
+38,Giovanni Reyna,Attacking Midfield,20,United States,Borussia Dortmund,28.00m,Bundesliga
 39,Noussair Mazraoui,Right-Back,25,Morocco,Bayern Munich,28.00m,Bundesliga
-40,Konrad Laimer,Central Midfield,25,Austria,RB Leipzig,30.00m,Bundesliga
+40,Konrad Laimer,Central Midfield,25,Austria,RB Leipzig,28.00m,Bundesliga
 41,Jesper Lindström,Attacking Midfield,23,Denmark,Eintracht Frankfurt,28.00m,Bundesliga
-42,Timo Werner,Centre-Forward,27,Germany,RB Leipzig,80.00m,Bundesliga
+42,Timo Werner,Centre-Forward,27,Germany,RB Leipzig,25.00m,Bundesliga
 43,Piero Hincapié,Centre-Back,21,Ecuador,Bayer 04 Leverkusen,25.00m,Bundesliga
 44,Djibril Sow,Central Midfield,26,Switzerland,Eintracht Frankfurt,22.00m,Bundesliga
-45,Xaver Schlager,Central Midfield,25,Austria,RB Leipzig,27.00m,Bundesliga
-46,Odilon Kossounou,Centre-Back,22,Cote d'Ivoire,Bayer 04 Leverkusen,23.00m,Bundesliga
-47,Mathys Tel,Centre-Forward,17,France,Bayern Munich,20.00m,Bundesliga
-48,Matthias Ginter,Centre-Back,29,Germany,SC Freiburg,35.00m,Bundesliga
-49,André Silva,Centre-Forward,27,Portugal,RB Leipzig,45.00m,Bundesliga
-50,Jonathan Tah,Centre-Back,27,Germany,Bayer 04 Leverkusen,40.00m,Bundesliga
+45,Xaver Schlager,Central Midfield,25,Austria,RB Leipzig,22.00m,Bundesliga
+46,Mathys Tel,Centre-Forward,18,France,Bayern Munich,20.00m,Bundesliga
+47,Matthias Ginter,Centre-Back,29,Germany,SC Freiburg,20.00m,Bundesliga
+48,André Silva,Centre-Forward,27,Portugal,RB Leipzig,20.00m,Bundesliga
+49,Jonathan Tah,Centre-Back,27,Germany,Bayer 04 Leverkusen,20.00m,Bundesliga
+50,David Raum,Left-Back,25,Germany,RB Leipzig,20.00m,Bundesliga
